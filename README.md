@@ -1,2 +1,2 @@
 # OOP-PROJECT
-Student Attendacen Examination System
+Student AttendanceExamination System
